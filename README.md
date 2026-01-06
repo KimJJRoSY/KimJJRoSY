@@ -2,7 +2,7 @@
 
 <div align="start">
   
-## JeongJooKim | Front-end
+# JeongJooKim | Front-end
 
 
 
